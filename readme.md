@@ -1,3 +1,3 @@
-#Laslesvpn sass home work
-##open terminal and write:
+# aslesvpn sass home work
+## open terminal and write:
 - sass scss:css -w
