@@ -1,3 +1,3 @@
-#how to use it
-# open terminal and write:
-- sass scss:css
+#Laslesvpn sass home work
+##open terminal and write:
+- sass scss:css -w
